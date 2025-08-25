@@ -45,4 +45,5 @@ npx ts-node projects/lession14/lession14.ts
 
 ## 👨‍💻 Tác giả
 
-Dự án học tập TypeScript
+email: de180577tranhongphuoc@gmail.com 
+
