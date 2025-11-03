@@ -6,14 +6,13 @@
 // //         return a3 + b3 ;
 // // }
 
-
 // optional params -> những
-function sum4(x: number, y: number ,z = false) {
-    if (z === true) {return x + y}; 
+function sum4(x: number, y: number, z = false) {
+  if (z === true) {
+    return x + y;
+  }
 
-    if(z === false) return x - y;
+  if (z === false) return x - y;
 }
 
-console.log(`Check out: ` ,  sum4(1,4 , true))
-
-
+console.log(`Check out: `, sum4(1, 4, true));
